@@ -10,16 +10,16 @@ description: >-
   out there, sunburning my hollyhocks and carrot flowers. But - bless air
   conditioning - it's cool inside. My son is playing Minecraft and I have a
   soda. And chocolate. Oh, and also this super cool new Grid site to play with.
-  Can I just mention that I have excite? Very wow!  
-datePublished: '2016-07-06T22:02:36.189Z'
-dateModified: '2016-07-06T22:02:14.146Z'
+  Can I just mention that I have excite? Very wow! 
+datePublished: '2016-07-06T22:59:22.622Z'
+dateModified: '2016-07-06T22:23:07.352Z'
 title: ''
 author: []
+sourcePath: >-
+  _posts/2016-07-06-right-now-its-a-sunny-afternoon-in-my-corner-of-california.md
 authors: []
 publisher: null
 starred: false
-sourcePath: >-
-  _posts/2016-07-06-right-now-its-a-sunny-afternoon-in-my-corner-of-california.md
 url: right-now-its-a-sunny-afternoon-in-my-corner-of-california/index.html
 _type: Article
 

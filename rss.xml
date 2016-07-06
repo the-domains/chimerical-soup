@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Chimerical Soup]]></title>
+        <description><![CDATA[Chimerical Soup]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 06 Jul 2016 22:02:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Right now it's a sunny afternoon in my corner of California. The grape leaves are draped over the crossbar on the front porch and the sun is just blazing out there, sunburning my hollyhocks and carrot flowers. But - bless air conditioning - it's cool inside. My son is playing Minecraft and I have a soda. And chocolate. Oh, and also this super cool new Grid site to play with. Can I just mention that I have excite? Very wow! </p>]]></description>
+            <link>undefinedright-now-its-a-sunny-afternoon-in-my-corner-of-california/index.html</link>
+            <guid isPermaLink="false">7758853f-4554-4f8f-9da6-de772ee444fd</guid>
+            <pubDate>Wed, 06 Jul 2016 22:02:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

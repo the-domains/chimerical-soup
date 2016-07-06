@@ -1,0 +1,28 @@
+name: Chimerical Soup
+favicon: null
+layout_spectrum: 0.5629302258603275
+typography_spectrum: 0.6715001345146447
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.18322552926838398
+  lightness: 0.5021654386073351
+  saturation: 0.8417660396080464
+  rhythmicContrast: 0.910454043885693
+purpose: []

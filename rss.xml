@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[I Have Excite!]]></title>
-        <description><![CDATA[I Have Excite!]]></description>
+        <title><![CDATA[@chimericalsoup / Musician and Horror Writer]]></title>
+        <description><![CDATA[@chimericalsoup / Musician and Horror Writer]]></description>
         <link>https://thegrid.ai/chimerical-soup/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jul 2016 02:23:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2016 03:23:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chimerical-soup/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Flickr]]></title>
+            <description><![CDATA[<article><h1>Flickr</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc852def-9b1d-4fe1-bd6d-6c045cde63cf.jpg"></article>]]></description>
+            <link>https://thegrid.ai/chimerical-soup/flickr/index.html</link>
+            <guid isPermaLink="false">0dc018da-7acd-4bec-a156-088021d22844</guid>
+            <pubDate>Thu, 07 Jul 2016 03:23:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About Me]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d6dda09-38b4-4a89-9f0a-1186b0d28c10.jpg">]]></description>

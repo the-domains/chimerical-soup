@@ -4,7 +4,7 @@
         <description><![CDATA[@chimericalsoup / Musician and Horror Writer]]></description>
         <link>https://thegrid.ai/chimerical-soup/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jul 2016 13:51:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2016 14:56:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chimerical-soup/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About Me]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/chimerical-soup/about-me/index.html</link>
             <guid isPermaLink="false">2a66d311-695e-4c16-85ea-2d822d4ba7d7</guid>
             <pubDate>Thu, 07 Jul 2016 13:51:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tarantula Hawks]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d30351c-5b50-4a95-8f31-912b69456547.jpg">]]></description>
+            <link>https://thegrid.ai/chimerical-soup/tarantula-hawks/index.html</link>
+            <guid isPermaLink="false">c1e4b3d0-ada4-479d-bd85-501d6952b97c</guid>
+            <pubDate>Thu, 07 Jul 2016 14:56:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>

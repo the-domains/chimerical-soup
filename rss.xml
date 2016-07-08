@@ -4,7 +4,7 @@
         <description><![CDATA[@chimericalsoup / Musician and Horror Writer]]></description>
         <link>https://thegrid.ai/chimerical-soup/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jul 2016 03:12:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2016 23:27:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chimerical-soup/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About Me]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/chimerical-soup/about-me/index.html</link>
             <guid isPermaLink="false">2a66d311-695e-4c16-85ea-2d822d4ba7d7</guid>
             <pubDate>Thu, 07 Jul 2016 13:51:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4226d4f-1c68-4ad5-a7de-c659c89f7994.jpg">]]></description>
+            <link>https://thegrid.ai/chimerical-soup/7d00d53b-ad8e-4f45-a3a0-4ea93bcb4eae/index.html</link>
+            <guid isPermaLink="false">7d00d53b-ad8e-4f45-a3a0-4ea93bcb4eae</guid>
+            <pubDate>Fri, 08 Jul 2016 23:26:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kitten!]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/chimerical-soup/75dc851f-8f83-4025-949d-60cb0183e9b6/index.html</link>
             <guid isPermaLink="false">75dc851f-8f83-4025-949d-60cb0183e9b6</guid>
             <pubDate>Wed, 06 Jul 2016 23:45:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/daced20a-674e-4db0-add9-c1eff5fd99a7.jpg">]]></description>
-            <link>https://thegrid.ai/chimerical-soup/66a7c698-4390-4caa-b506-fb94c9c3b726/index.html</link>
-            <guid isPermaLink="false">66a7c698-4390-4caa-b506-fb94c9c3b726</guid>
-            <pubDate>Wed, 06 Jul 2016 23:09:29 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <description><![CDATA[@chimericalsoup / Musician and Horror Writer]]></description>
         <link>https://thegrid.ai/chimerical-soup/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jul 2016 23:08:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2016 13:40:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chimerical-soup/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About Me]]></title>
@@ -15,7 +15,14 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>The sound of a low, huge wind chime. The sound of babbling water behind a high wall.  </p>]]></description>
+            <description><![CDATA[<p>"Pokemon?" "Yup."  </p>]]></description>
+            <link>https://thegrid.ai/chimerical-soup/pokemon-yup/index.html</link>
+            <guid isPermaLink="false">b2e63d03-74fd-497a-b59a-7848eb261853</guid>
+            <pubDate>Mon, 11 Jul 2016 13:40:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The sound of a low, huge wind chime. The sound of babbling water behind a high wall. </p>]]></description>
             <link>https://thegrid.ai/chimerical-soup/the-sound-of-a-low-huge-wind-chime-the-sound-of-babbling-w/index.html</link>
             <guid isPermaLink="false">3a9c5036-ca64-4095-bd09-a995a696c67f</guid>
             <pubDate>Sat, 09 Jul 2016 23:08:14 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/chimerical-soup/5899c3bf-e97f-437e-bec8-239e2c830913/index.html</link>
             <guid isPermaLink="false">5899c3bf-e97f-437e-bec8-239e2c830913</guid>
             <pubDate>Wed, 06 Jul 2016 23:59:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Can I just say that I love Writing Excuses so hard?</p>]]></description>
-            <link>https://thegrid.ai/chimerical-soup/can-i-just-say-that-i-love-writing-excuses-so-hard/index.html</link>
-            <guid isPermaLink="false">b9703a12-4210-4d6a-80fc-cd235028bf32</guid>
-            <pubDate>Wed, 06 Jul 2016 23:56:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

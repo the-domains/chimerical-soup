@@ -4,7 +4,7 @@
         <description><![CDATA[@chimericalsoup / Musician and Horror Writer]]></description>
         <link>https://thegrid.ai/chimerical-soup/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jul 2016 13:40:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2016 14:24:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chimerical-soup/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About Me]]></title>
@@ -15,7 +15,14 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>"Pokemon?" "Yup."  </p>]]></description>
+            <description><![CDATA[<p>"Hello," the boy on the bicycle said. "I saw you yesterday." "Yes," I said. "You sure did."  </p>]]></description>
+            <link>https://thegrid.ai/chimerical-soup/hello-the-boy-on-the-bicycle-said-i-saw-you-yesterday/index.html</link>
+            <guid isPermaLink="false">cd1689b5-8b4b-4bdb-9e90-59e82aae9dd0</guid>
+            <pubDate>Tue, 12 Jul 2016 14:24:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>"Pokemon?" "Yup." </p>]]></description>
             <link>https://thegrid.ai/chimerical-soup/pokemon-yup/index.html</link>
             <guid isPermaLink="false">b2e63d03-74fd-497a-b59a-7848eb261853</guid>
             <pubDate>Mon, 11 Jul 2016 13:40:50 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/chimerical-soup/3a73ede7-7f38-4fd2-9667-5368ea6e2670/index.html</link>
             <guid isPermaLink="false">3a73ede7-7f38-4fd2-9667-5368ea6e2670</guid>
             <pubDate>Thu, 07 Jul 2016 00:01:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6941a5a-5bae-4bc8-b530-02a851499946.jpg">]]></description>
-            <link>https://thegrid.ai/chimerical-soup/5899c3bf-e97f-437e-bec8-239e2c830913/index.html</link>
-            <guid isPermaLink="false">5899c3bf-e97f-437e-bec8-239e2c830913</guid>
-            <pubDate>Wed, 06 Jul 2016 23:59:03 GMT</pubDate>
         </item>
     </channel>
 </rss>

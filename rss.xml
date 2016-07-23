@@ -4,7 +4,7 @@
         <description><![CDATA[@chimericalsoup / Musician and Horror Writer]]></description>
         <link>https://thegrid.ai/chimerical-soup/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jul 2016 14:24:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2016 16:12:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chimerical-soup/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About Me]]></title>
@@ -15,7 +15,14 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>"Hello," the boy on the bicycle said. "I saw you yesterday." "Yes," I said. "You sure did."  </p>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cde6f529-38cb-444f-84a3-adf0a4e66e68.jpg">]]></description>
+            <link>https://thegrid.ai/chimerical-soup/thank-you-to-flickr-user-thomas-backa-for-this-lovely-pictur/index.html</link>
+            <guid isPermaLink="false">f65566b9-7279-4a81-84d7-c7662ddc165c</guid>
+            <pubDate>Sat, 23 Jul 2016 16:11:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>"Hello," the boy on the bicycle said. "I saw you yesterday." "Yes," I said. "You sure did." </p>]]></description>
             <link>https://thegrid.ai/chimerical-soup/hello-the-boy-on-the-bicycle-said-i-saw-you-yesterday/index.html</link>
             <guid isPermaLink="false">cd1689b5-8b4b-4bdb-9e90-59e82aae9dd0</guid>
             <pubDate>Tue, 12 Jul 2016 14:24:48 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/chimerical-soup/805f69aa-1d34-464b-acf3-e163a7f8eb92/index.html</link>
             <guid isPermaLink="false">805f69aa-1d34-464b-acf3-e163a7f8eb92</guid>
             <pubDate>Thu, 07 Jul 2016 00:18:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5481ee1e-456f-42dc-9fb6-5e8ef58893b7.jpg">]]></description>
-            <link>https://thegrid.ai/chimerical-soup/3a73ede7-7f38-4fd2-9667-5368ea6e2670/index.html</link>
-            <guid isPermaLink="false">3a73ede7-7f38-4fd2-9667-5368ea6e2670</guid>
-            <pubDate>Thu, 07 Jul 2016 00:01:33 GMT</pubDate>
         </item>
     </channel>
 </rss>

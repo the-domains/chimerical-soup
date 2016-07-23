@@ -4,7 +4,7 @@
         <description><![CDATA[@chimericalsoup / Musician and Horror Writer]]></description>
         <link>https://thegrid.ai/chimerical-soup/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jul 2016 16:12:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2016 16:15:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chimerical-soup/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About Me]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/chimerical-soup/about-me/index.html</link>
             <guid isPermaLink="false">2a66d311-695e-4c16-85ea-2d822d4ba7d7</guid>
             <pubDate>Thu, 07 Jul 2016 13:51:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0b8f114-b3a0-4e7c-b9b5-3e1e4bf31455.jpg">]]></description>
+            <link>https://thegrid.ai/chimerical-soup/i-want-to-go-to-bolivia/index.html</link>
+            <guid isPermaLink="false">827bc9f6-a928-4e2a-a7ac-a661b6a8c01a</guid>
+            <pubDate>Sat, 23 Jul 2016 16:14:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/chimerical-soup/brewing-the-coffee-and-settling-in-to-work-on-tree-of-the-be/index.html</link>
             <guid isPermaLink="false">3ff6b9ab-a129-4e52-8840-7cdf5b9377b4</guid>
             <pubDate>Thu, 07 Jul 2016 12:54:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/38b54cf2-8c90-4c1e-bf84-51c44d756f84.jpg">]]></description>
-            <link>https://thegrid.ai/chimerical-soup/805f69aa-1d34-464b-acf3-e163a7f8eb92/index.html</link>
-            <guid isPermaLink="false">805f69aa-1d34-464b-acf3-e163a7f8eb92</guid>
-            <pubDate>Thu, 07 Jul 2016 00:18:08 GMT</pubDate>
         </item>
     </channel>
 </rss>

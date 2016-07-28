@@ -4,7 +4,7 @@
         <description><![CDATA[@chimericalsoup / Musician and Horror Writer]]></description>
         <link>https://thegrid.ai/chimerical-soup/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jul 2016 16:15:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2016 13:52:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chimerical-soup/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About Me]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/chimerical-soup/about-me/index.html</link>
             <guid isPermaLink="false">2a66d311-695e-4c16-85ea-2d822d4ba7d7</guid>
             <pubDate>Thu, 07 Jul 2016 13:51:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Nothing feels as good as incremental progress. Nothing sounds as comforting as a running dishwasher.  </p>]]></description>
+            <link>https://thegrid.ai/chimerical-soup/nothing-feels-as-good-as-incremental-progress-nothing-sound/index.html</link>
+            <guid isPermaLink="false">b91fe018-2d9d-4f6d-868c-41b57392414a</guid>
+            <pubDate>Thu, 28 Jul 2016 13:52:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/chimerical-soup/tarantula-hawks/index.html</link>
             <guid isPermaLink="false">c1e4b3d0-ada4-479d-bd85-501d6952b97c</guid>
             <pubDate>Thu, 07 Jul 2016 14:56:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ea43b45-b307-42e9-9753-2215e108fb86.jpg">]]></description>
-            <link>https://thegrid.ai/chimerical-soup/brewing-the-coffee-and-settling-in-to-work-on-tree-of-the-be/index.html</link>
-            <guid isPermaLink="false">3ff6b9ab-a129-4e52-8840-7cdf5b9377b4</guid>
-            <pubDate>Thu, 07 Jul 2016 12:54:04 GMT</pubDate>
         </item>
     </channel>
 </rss>

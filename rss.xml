@@ -4,7 +4,7 @@
         <description><![CDATA[@chimericalsoup / Musician and Horror Writer]]></description>
         <link>https://thegrid.ai/chimerical-soup/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jul 2016 13:52:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2016 23:10:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chimerical-soup/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About Me]]></title>
@@ -15,7 +15,14 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Nothing feels as good as incremental progress. Nothing sounds as comforting as a running dishwasher.  </p>]]></description>
+            <description><![CDATA[<p>After a long summer of rest and depression, going back to work is an exercise in unrestrained exuberance. I guess my resilience reserves filled right back up while I binge-watched Stranger Things and wrote short stories, novelettes, and started a novel. *flexes muscles* Back into the fray!  </p>]]></description>
+            <link>https://thegrid.ai/chimerical-soup/after-a-long-summer-of-rest-and-depression-going-back-to-wo/index.html</link>
+            <guid isPermaLink="false">559ad4fd-a866-4e5e-bc70-851cc07ca3ca</guid>
+            <pubDate>Thu, 28 Jul 2016 23:10:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Nothing feels as good as incremental progress. Nothing sounds as comforting as a running dishwasher. </p>]]></description>
             <link>https://thegrid.ai/chimerical-soup/nothing-feels-as-good-as-incremental-progress-nothing-sound/index.html</link>
             <guid isPermaLink="false">b91fe018-2d9d-4f6d-868c-41b57392414a</guid>
             <pubDate>Thu, 28 Jul 2016 13:52:33 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/chimerical-soup/kitten/index.html</link>
             <guid isPermaLink="false">f2b9fa11-c40d-4801-8b98-d0b02a7b2f1d</guid>
             <pubDate>Fri, 08 Jul 2016 03:12:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tarantula Hawks]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d30351c-5b50-4a95-8f31-912b69456547.jpg">]]></description>
-            <link>https://thegrid.ai/chimerical-soup/tarantula-hawks/index.html</link>
-            <guid isPermaLink="false">c1e4b3d0-ada4-479d-bd85-501d6952b97c</guid>
-            <pubDate>Thu, 07 Jul 2016 14:56:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
